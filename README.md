@@ -54,8 +54,8 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 
 ## STM 32 CUBE PROGRAM :
 ```
-NAME : SAKTHISWAR S
-REG NO: 212222230127
+NAME : NITEESH M
+REG NO: 212222230098
 ```
 ```
 #include "main.h"
@@ -94,7 +94,7 @@ int main(void)
 
 
   ## STM32 BOARD OFF
-  ![img](out1.jpeg)
+  ![img](out1.jpg)
 
 
 
